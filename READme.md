@@ -21,7 +21,7 @@
 
 Сначала скопируем проект с сервера на ваш компьютер. Введите в терминал следующую команду:
 
-git clone https://git@github.com:NataliaTimoshina23/Diplom2.git
+git clone https://github.com/NataliaTimoshina23/Diplom2
 
 ### 2. Активация проекта
 Запустите контейнеры командой в терминале:
